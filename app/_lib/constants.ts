@@ -123,6 +123,22 @@ export const portfolioProjects = [
     liveDemoUrl: "https://github.com/git-kirants/SplashPaper/releases",
     sourceCodeUrl: "https://github.com/git-kirants/SplashPaper",
   },
+  {
+    id: "GrapesGenix",
+    heading: "GrapesGenix",
+    subheading: "a website for the company GrapesGenix",
+    description:
+      "A responsive website build using Next.js for GrapesGenix",
+    imageUrl: "/imgs/projects/grapesgenix.png",
+    techStack: [
+      "Next.js",
+      "Vercel",
+      "TailwindCSS",
+      "TypeScript",
+    ],
+    liveDemoUrl: "https://grapesgenixwebsite.vercel.app/",
+    sourceCodeUrl: "https://github.com/git-kirants/grapesgenixwebsite",
+  },
 ];
 
 
