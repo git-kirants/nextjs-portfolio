@@ -129,7 +129,7 @@ export const portfolioProjects = [
     subheading: "a website for the company GrapesGenix",
     description:
       "A responsive website build using Next.js for GrapesGenix",
-    imageUrl: "/imgs/projects/grapesgenix.png",
+    imageUrl: "/imgs/projects/1.png",
     techStack: [
       "Next.js",
       "Vercel",
