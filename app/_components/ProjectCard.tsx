@@ -63,7 +63,7 @@ const ProjectCard = ({ project }: { project: ProjectProps }) => {
             href={`/work/${id}`}
             className="inline-flex items-center justify-center p-2 md:p-3 bg-primary hover:bg-primary/80 transition-colors duration-200 rounded-lg self-start sm:self-auto"
           >
-            <MoveUpRight className="w-5 h-5 md:w-6 md:h-6 lg:w-8 lg:h-8 text-black dark:text-white" />
+            <MoveUpRight className="w-5 h-5 md:w-6 md:h-6 lg:w-8 lg:h-8 text-black dark:text-black" />
           </Link>
         </div>
       </div>
