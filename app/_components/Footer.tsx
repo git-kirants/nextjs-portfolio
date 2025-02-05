@@ -14,7 +14,7 @@ const Footer = () => {
             Like what you see? Reach out{" "}
             <Link
               href="mailto:kiran.t.shibu@gmail.com"
-              className="text-primary hover:text-primary/80 border-b-2 border-primary hover:border-primary/80 transition-colors duration-200"
+              className="text-black dark:text-white hover:text-primary/80 border-b-2 border-black dark:border-white hover:border-primary/80 transition-colors duration-200"
             >
               via email
             </Link>{" "}
